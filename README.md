@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MozarcxIaye. 
-- 👀 I’m interested in learning progamming languages as soon as possible and that's quite challanging for me.
-- 🌱 I’m currently learning Javascript.
+Chris Shrestha (Mozarcx Iaye)
 
-- Email: mozarcxiaye@gmail.com
+Currently focused in MERN.
 
 
